@@ -2,6 +2,8 @@
 
 Skill gratuita de [Krea](https://instagram.com/krea_uy) para Claude. Le pasás una idea o una foto de referencia y Claude te devuelve un prompt ultrarrealista para Nano Banana, listo para pegar.
 
+📘 **[Ver la guía visual en PDF](./Krea-Skill-Nano-Banana.pdf)**
+
 ## Qué hace
 
 - Escribe los prompts en inglés y en formato 4:5.
